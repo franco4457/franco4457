@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Franco Gutierrez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina.</h3>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <p align="center">I am a Fullstack developer with a strong passion for programming and web design. 
 My background has given me experience developing web applications using technologies such as React, NodeJS, Express and Sequelize.
 I have also worked on team projects and learned how to collaborate in an agile development environment. I am excited to apply my skills and knowledge in a professional environment and continue to grow as a developer.</p>
