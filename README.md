@@ -14,6 +14,13 @@ I have also worked on team projects and learned how to collaborate in an agile d
 
 - 👨‍💻 All of my projects are available at [https://portfolio-franco4457.vercel.app/](https://portfolio-franco4457.vercel.app/)
 
+<h3 align="left">GitHub stats:</h3>
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/francoegi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francoegi/" height="30" width="40" /></a>
