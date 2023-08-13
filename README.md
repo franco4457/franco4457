@@ -16,6 +16,7 @@ I have also worked on team projects and learned how to collaborate in an agile d
 
 <h3 align="left">GitHub stats:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=franco4457&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Franco Gutierrez Github Stats">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franco4457&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
