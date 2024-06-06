@@ -10,7 +10,7 @@
 My background has given me experience developing web applications using technologies such as React, NodeJS, Express and Sequelize.
 I have also worked on team projects and learned how to collaborate in an agile development environment. I am excited to apply my skills and knowledge in a professional environment and continue to grow as a developer.</p>
 
-- 🌱 I’m currently learning **React,NodeJS**
+- 🌱 I’m currently learning **serverless, and aws**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-franco4457.vercel.app/](https://portfolio-franco4457.vercel.app/)
 
