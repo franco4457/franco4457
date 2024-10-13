@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco Gutierrez</h1>
-<h3 align="center">A passionate Full Stack Developer from Argentina.</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina, Chaco.</h3>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
