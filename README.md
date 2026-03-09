@@ -12,6 +12,8 @@ I have also worked on team projects and learned how to collaborate in an agile d
 
 - 🌱 I’m currently learning **serverless and aws solution architect associate certificate**
 
+- 🌱 I am currently studying for a "Bachelor's Degree in Information Technology Management" at UADE
+
 - 👨‍💻 All of my projects are available at [https://portfolio-franco4457.vercel.app/](https://portfolio-franco4457.vercel.app/)
 
 <h3 align="left">GitHub stats:</h3>
